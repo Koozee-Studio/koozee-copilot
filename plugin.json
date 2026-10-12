@@ -1,0 +1,24 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "koozee",
+  "version": "1.0.0",
+  "description": "Create Fashion Workflows on a Free Canvas. Batch-Generate Fashion Images and Videos.",
+  "author": {
+    "name": "Koozee",
+    "url": "https://koozee.ai"
+  },
+  "homepage": "https://koozee.ai",
+  "repository": "https://github.com/Koozee-Studio/koozee-copilot",
+  "license": "MIT",
+  "keywords": [
+    "koozee",
+    "fashion images",
+    "fashion videos",
+    "ecommerce AI images",
+    "ecommerce AI videos",
+    "virtual try-on tool",
+    "canvas",
+    "design",
+    "workflow"
+  ]
+}
