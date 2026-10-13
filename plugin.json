@@ -2,7 +2,7 @@
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "koozee",
   "version": "1.0.0",
-  "description": "Create Fashion Workflows on a Free Canvas. Batch-Generate Fashion Images and Videos.",
+  "description": "Create fashion images and videos with AI—all in one place.",
   "author": {
     "name": "Koozee",
     "url": "https://koozee.ai"
